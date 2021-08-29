@@ -1,4 +1,4 @@
-# AquecimentoPython
+# PLA Matrizes I
 Atividades em python para aula de Programação Linear e Aplicações do curso de Análise e Desenvolvimento de Sistemas, na FATEC Americana - SP 
 
 1. programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do usuário de trás para frente utilizando somente letras maiúsculas. 
