@@ -1,6 +1,5 @@
 # PLA Matrizes II
-Exercícios de matriz
-Cáculo de matrizes em python, sem o uso de bibliotecas, tais como NumPy ou Panda
+Exercícios de matriz, cálculo de matrizes em python sem o uso de bibliotecas, tais como NumPy ou Panda.
 
 Dadas as matrizes:
 
