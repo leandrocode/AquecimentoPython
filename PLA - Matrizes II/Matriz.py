@@ -88,7 +88,7 @@ resultado1 = somarMatriz(a, resultado1)
 resultado1 = multiplicarMatriz(resultado1, b)
 print(str(resultado1) + "\n")
 
-print("exercício 2: (B + At) * Ci - (3 * Bt) =")
+print("exercício 2: (B + At) * C^-1 - (3 * Bt) =")
 resultado2 = somarMatriz(b, transpostarMatriz(a))
 inversaC = inverterMatriz(c)
 resultado2 = multiplicarMatriz(resultado2, inversaC)
