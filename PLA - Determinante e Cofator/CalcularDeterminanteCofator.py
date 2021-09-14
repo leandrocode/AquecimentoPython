@@ -1,4 +1,4 @@
-def calcularDeterminates(ordem, matriz):
+def calcularDeterminantes(ordem, matriz):
     if ordem == 1:
         det = matriz[0]
         return det
@@ -19,11 +19,7 @@ matriz1 = [-7]
 matriz2 = [[2,5],[-2,-5]]
 matriz3 = [[ 1,2,5],[0,1,3], [-1,0,-2]]
 
-print(calcularDeterminates(len(matriz1), matriz1))
-print(calcularDeterminates(len(matriz2), matriz2))
-print(calcularDeterminates(len(matriz3), matriz3))
-
-    
-
-
+print(calcularDeterminantes(len(matriz1), matriz1))
+print(calcularDeterminantes(len(matriz2), matriz2))
+print(calcularDeterminantes(len(matriz3), matriz3))
 
